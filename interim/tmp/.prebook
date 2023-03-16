@@ -1,7 +1,11 @@
 [
   {
-    "tag": "h4",
-    "innerHtml": "I"
+    "tag": "p",
+    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/cover.jpg\" alt=\"Book Cover\" title=\"Book Cover\"> Book Cover"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly.jpg\" alt=\"Front Fly Leaf\" title=\"Fly Leaf\"> Front Fly Leaf"
   },
   {
     "tag": "hr",
@@ -9,7 +13,27 @@
   },
   {
     "tag": "h4",
+    "innerHtml": "The Wind In The Willows"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/frontis.jpg\" alt=\"The Piper at the Gates of Dawn\" title=\"The Piper at the Gates of Dawn\"> The Piper at the Gates of Dawn"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/title.jpg"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "I"
+  },
+  {
+    "tag": "h4",
     "innerHtml": "The River Bank"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -3737,7 +3761,19 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>Speech                   By Toad.\n  (There will be other speeches by Toad during\n               the evening.)\nAddress                  By Toad\nSynopsis—Our Prison System—the Waterways of Old\n   England—Horse-dealing, and how to deal—Property,\n   its rights and its duties—Back to the Land—A\n   Typical English Squire.\nSong                    By Toad.\n             (_Composed by himself._)\nOther Compositions        By Toad\n   will be sung in the course of the\n   evening by the      Composer.</pre>"
+    "innerHtml": "<pre>Speech                   By Toad.\n  (There will be other speeches by Toad during\n               the evening.)</pre>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<pre>Address                  By Toad\nSynopsis—Our Prison System—the Waterways of Old\n   England—Horse-dealing, and how to deal—Property,\n   its rights and its duties—Back to the Land—A\n   Typical English Squire.</pre>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<pre>Song                    By Toad.\n             (_Composed by himself._)</pre>"
+  },
+  {
+    "tag": "blockquote",
+    "innerHtml": "<pre>Other Compositions        By Toad\n   will be sung in the course of the\n   evening by the      Composer.</pre>"
   },
   {
     "tag": "p",
@@ -3858,5 +3894,17 @@
   {
     "tag": "p",
     "innerHtml": "Sometimes, in the course of long summer evenings, the friends would take a stroll together in the Wild Wood, now successfully tamed so far as they were concerned; and it was pleasing to see how respectfully they were greeted by the inhabitants, and how the mother-weasels would bring their young ones to the mouths of their holes, and say, pointing, \"Look, baby! There goes the great Mr. Toad! And that's the gallant Water Rat, a terrible fighter, walking along o' him! And yonder comes the famous Mr. Mole, of whom you so often have heard your father tell!\" But when their infants were fractious and quite beyond control, they would quiet them by telling how, if they didn't hush them and not fret them, the terrible grey   Badger would up and get them. This was a base libel on Badger, who, though he cared little about Society, was rather fond of children; but it never failed to have its full effect."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<em>The Wind in the Willows</em>"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/backlogo.jpg"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly1.jpg\" alt=\"Back Fly Cover\" title=\"Back Fly Leaf\"><img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly2.jpg\" alt=\"Back Fly Cover\" title=\"Back Fly Leaf\"> Back Fly Leaf"
   }
 ]
