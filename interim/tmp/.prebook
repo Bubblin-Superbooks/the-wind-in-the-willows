@@ -1,23 +1,15 @@
 [
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/cover.jpg\" alt=\"Book Cover\" title=\"Book Cover\"> Book Cover"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/cover.jpg"
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly.jpg\" alt=\"Front Fly Leaf\" title=\"Fly Leaf\"> Front Fly Leaf"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly.jpg"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
-  },
-  {
-    "tag": "h4",
-    "innerHtml": "The Wind In The Willows"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/frontis.jpg\" alt=\"The Piper at the Gates of Dawn\" title=\"The Piper at the Gates of Dawn\"> The Piper at the Gates of Dawn"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/frontis.jpg"
   },
   {
     "tag": "img",
@@ -28,7 +20,7 @@
     "innerHtml": "I"
   },
   {
-    "tag": "h4",
+    "tag": "h3",
     "innerHtml": "The River Bank"
   },
   {
@@ -108,8 +100,8 @@
     "innerHtml": "\"This has been a wonderful day!\" said he, as the Rat shoved off and took to the sculls again. \"Do you know, I've never been in a boat before in all my life.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus01.jpg\" alt=\"It was the Water Rat\" title=\"It was the Water Rat\"> It was the Water Rat"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus01.jpg"
   },
   {
     "tag": "p",
@@ -153,7 +145,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"There's&nbsp;cold&nbsp;chicken&nbsp;inside&nbsp;it,\"&nbsp;replied&nbsp;the&nbsp;Rat&nbsp;briefly:<br>\"coldtonguecoldhamcoldbeefpickledgherkinssaladfrenchrolls–<br>cresssandwichespottedmeatgingerbeerlemonadesodawater—\""
+    "innerHtml": "\"There's&nbsp;cold&nbsp;chicken&nbsp;inside&nbsp;it,\"&nbsp;replied&nbsp;the&nbsp;Rat&nbsp;briefly:<br>\"coldtonguecoldhamcoldbeefpickledgherkinssaladfrenchrollscresssandwichespottedmeatgingerbeerlemonadesodawater—\""
   },
   {
     "tag": "p",
@@ -416,12 +408,12 @@
     "innerHtml": "II"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "The Open Road"
   },
   {
-    "tag": "h4",
-    "innerHtml": "The Open Road"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -449,7 +441,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Everyone for what he likes!  \n<em>We</em> like to be<br>Heads down, tails up,<br>Dabbling free!"
+    "innerHtml": "Everyone for what he likes!<br><em>We</em> like to be<br>Heads down, tails up,<br>Dabbling free!"
   },
   {
     "tag": "p",
@@ -692,8 +684,8 @@
     "innerHtml": "\"Police-station! Complaint!\" murmured Toad dreamily. \"Me <em>complain</em> of that beautiful, that heavenly vision that has been vouchsafed me! <em>Mend</em> the <em>cart</em>! I've done with carts for ever. I never want to see the cart, or to hear of it, again. O Ratty! You can't think how obliged I am to you for consenting to come on this trip! I wouldn't have gone without you, and then I might never have seen that—that swan, that sunbeam, that thunderbolt! I might never have heard that entrancing sound, or smelt that bewitching smell! I owe it all to you, my best of friends!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "![\"Come on!\" he said. \"We shall just have to walk it\"](images/illus02.jpg \"\"Come on!\" he said. \"We shall just have to walk it\"\") \"Come on!\" he said. \"We shall just have to walk it\""
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus02.jpg"
   },
   {
     "tag": "p",
@@ -716,12 +708,12 @@
     "innerHtml": "III"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "The Wild Wood"
   },
   {
-    "tag": "h4",
-    "innerHtml": "The Wild Wood"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -816,8 +808,8 @@
     "innerHtml": "The pattering increased till it sounded like   sudden hail on the dry leaf-carpet spread around him. The whole wood seemed running now, running hard, hunting, chasing, closing in round something or—somebody? In panic, he began to run too, aimlessly, he knew not whither. He ran up against things, he fell over things and into things, he darted under things and dodged round things. At last he took refuge in the deep, dark hollow of an old beech tree, which offered shelter, concealment—perhaps even safety, but who could tell? Anyhow, he was too tired to run any further, and could only snuggle down into the dry leaves which had drifted into the hollow and hope he was safe for a time. And as he lay there panting and trembling, and listened to the whistlings and the patterings outside, he knew it at last, in all its fulness, that dread thing which other little dwellers in field and hedgerow had encountered here, and known as their darkest moment—that thing which the Rat had vainly tried to shield him from—the Terror of the Wild Wood!"
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus03.jpg\" alt=\"In panic, he began to run\" title=\"In panic, he began to run\"> In panic, he began to run"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus03.jpg"
   },
   {
     "tag": "p",
@@ -1048,8 +1040,12 @@
     "innerHtml": "IV"
   },
   {
-    "tag": "p",
-    "innerHtml": "MR. BADGER"
+    "tag": "h3",
+    "innerHtml": "Mr. Badger"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1200,8 +1196,8 @@
     "innerHtml": "\"Thought I should find you here all right,\" said the Otter cheerfully. \"They were all in a great state of alarm along River Bank when I arrived this morning. Rat never been home all night—nor Mole either—something dreadful must have happened, they said; and the snow had covered up all your tracks, of course. But I knew that when people were in any fix they mostly went to Badger, or else Badger got to   know of it somehow, so I came straight off here, through the Wild Wood and the snow! My! it was fine, coming through the snow as the red sun was rising and showing against the black tree-trunks! As you went along in the stillness, every now and then masses of snow slid off the branches suddenly with a flop! making you jump and run for cover. Snow-castles and snow-caverns had sprung up out of nowhere in the night—and snow bridges, terraces, ramparts—I could have stayed and played with them for hours. Here and there great branches had been torn away by the sheer weight of the snow, and robins perched and hopped on them in their perky conceited way, just as if they had done it themselves. A ragged string of wild geese passed overhead, high on the grey sky, and a few rooks whirled over the trees, inspected, and flapped off homewards with a disgusted expression; but I met no sensible being to ask the news of. About half-way across I came on a rabbit sitting on a stump, cleaning his silly face with his paws. He was a pretty scared animal when I crept up behind him and placed a heavy   fore-paw on his shoulder. I had to cuff his head once or twice to get any sense out of it at all. At last I managed to extract from him that Mole had been seen in the Wild Wood last night by one of them. It was the talk of the burrows, he said, how Mole, Mr. Rat's particular friend, was in a bad fix; how he had lost his way, and 'They' were up and out hunting, and were chivvying him round and round. 'Then why didn't any of you <em>do</em> something?' I asked. 'You mayn't be blessed with brains, but there are hundreds and hundreds of you, big, stout fellows, as fat as butter, and your burrows running in all directions, and you could have taken him in and made him safe and comfortable, or tried to, at all events.' 'What, <em>us</em>?' he merely said: '<em>do</em> something? us rabbits?' So I cuffed him again and left him. There was nothing else to be done. At any rate, I had learnt something; and if I had had the luck to meet any of 'Them' I'd have learnt something more—or <em>they</em> would.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus04.jpg\" alt=\"Through the Wild Wood and the snow\" title=\"Through the Wild Wood and the snow\"> Through the Wild Wood and the snow"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus04.jpg"
   },
   {
     "tag": "p",
@@ -1312,12 +1308,12 @@
     "innerHtml": "V"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "Dulce Domum"
   },
   {
-    "tag": "h4",
-    "innerHtml": "Dulce Domum"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1537,7 +1533,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "<em>And then they heard the angels tell</em> <em>\"Who were the first to cry</em> Nowell_?_  \n<em>Animals all, as it befell,</em> <em>In the stable where they did dwell!</em> <em>Joy shall be theirs in the morning!\"</em>"
+    "innerHtml": "<em>And then they heard the angels tell</em> <em>\"Who were the first to cry</em> Nowell_?_<br><em>Animals all, as it befell,</em> <em>In the stable where they did dwell!</em> <em>Joy shall be theirs in the morning!\"</em>"
   },
   {
     "tag": "p",
@@ -1612,8 +1608,12 @@
     "innerHtml": "VI"
   },
   {
-    "tag": "p",
-    "innerHtml": "MR. TOAD"
+    "tag": "h3",
+    "innerHtml": "Mr. Toad"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1936,8 +1936,8 @@
     "innerHtml": "Then the brutal minions of the law fell upon the hapless Toad; loaded him with chains, and dragged him from the Court House, shrieking, praying, protesting; across the market-place, where the playful populace, always as severe upon detected crime as they are sympathetic and helpful when one is merely \"wanted,\"   assailed him with jeers, carrots, and popular catch-words; past hooting school children, their innocent faces lit up with the pleasure they ever derive from the sight of a gentleman in difficulties; across the hollow-sounding drawbridge, below the spiky portcullis, under the frowning archway of the grim old castle, whose ancient towers soared high overhead; past guardrooms full of grinning soldiery off duty, past sentries who coughed in a horrid, sarcastic way, because that is as much as a sentry on his post dare do to show his contempt and abhorrence of crime; up time-worn winding stairs, past men-at-arms in casquet and corselet of steel, darting threatening looks through their vizards; across courtyards, where mastiffs strained at their leash and pawed the air to get at him; past ancient warders, their halberds leant against the wall, dozing over a pasty and a flagon of brown ale; on and on, past the rack-chamber and the thumbscrew-room, past the turning that led to the private scaffold, till they reached the door of the grimmest dungeon that lay in the heart of the innermost keep. There at last they paused,   where an ancient gaoler sat fingering a bunch of mighty keys."
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus05.jpg\" alt=\"Toad was a helpless prisoner in the remotest dungeon\" title=\"Toad was a helpless prisoner in the remotest dungeon\"> Toad was a helpless prisoner in the remotest dungeon"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus05.jpg"
   },
   {
     "tag": "p",
@@ -1956,12 +1956,12 @@
     "innerHtml": "VII"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "The Piper At The Gates Of Dawn"
   },
   {
-    "tag": "h4",
-    "innerHtml": "The Piper At The Gates Of Dawn"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -2192,12 +2192,12 @@
     "innerHtml": "VIII"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "Toad's Adventures"
   },
   {
-    "tag": "h4",
-    "innerHtml": "Toad's Adventures"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -2220,8 +2220,8 @@
     "innerHtml": "It was bubble-and-squeak, between two plates, and its fragrance filled the narrow cell. The penetrating smell of cabbage reached the nose   of Toad as he lay prostrate in his misery on the floor, and gave him the idea for a moment that perhaps life was not such a blank and desperate thing as he had imagined. But still he wailed, and kicked with his legs, and refused to be comforted. So the wise girl retired for the time, but, of course, a good deal of the smell of hot cabbage remained behind, as it will do, and Toad, between his sobs, sniffed and reflected, and gradually began to think new and inspiring thoughts: of chivalry, and poetry, and deeds still to be done; of broad meadows, and cattle browsing in them, raked by sun and wind; of kitchen-gardens, and straight herb-borders, and warm snap-dragon beset by bees; and of the comforting clink of dishes set down on the table at Toad Hall, and the scrape of chair-legs on the floor as every one pulled himself close up to his work. The air of the narrow cell took a rosy tinge; he began to think of his friends, and how they would surely be able to do something; of lawyers, and how they would have enjoyed his case, and what an ass he had been not to get in a few; and lastly, he thought   of his own great cleverness and resource, and all that he was capable of if he only gave his great mind to it; and the cure was almost complete."
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus06.jpg\" alt=\"He lay prostrate in his misery on the floor\" title=\"He lay prostrate in his misery on the floor\"> He lay prostrate in his misery on the floor"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus06.jpg"
   },
   {
     "tag": "p",
@@ -2452,12 +2452,12 @@
     "innerHtml": "IX"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "Wayfarers All"
   },
   {
-    "tag": "h4",
-    "innerHtml": "Wayfarers All"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -2656,8 +2656,8 @@
     "innerHtml": "\"From Corsica,\" he went on, \"I made use of   a ship that was taking wine to the mainland. We made Alassio in the evening, lay to, hauled up our wine-casks, and hove them overboard, tied one to the other by a long line. Then the crew took to the boats and rowed shorewards, singing as they went, and drawing after them the long bobbing procession of casks, like a mile of porpoises. On the sands they had horses waiting, which dragged the casks up the steep street of the little town with a fine rush and clatter and scramble. When the last cask was in, we went and refreshed and rested, and sat late into the night, drinking with our friends, and next morning I took to the great olive-woods for a spell and a rest. For now I had done with islands for the time, and ports and shipping were plentiful; so I led a lazy life among the peasants, lying and watching them work, or stretched high on the hillside with the blue Mediterranean far below me. And so at length, by easy stages, and partly on foot, partly by sea, to Marseilles, and the meeting of old shipmates, and the visiting of great ocean-bound vessels, and feasting once more. Talk   of shell-fish! Why, sometimes I dream of the shell-fish of Marseilles, and wake up crying!\""
   },
   {
-    "tag": "p",
-    "innerHtml": "![\"It's a hard life, by all accounts,\" murmured the Rat](images/illus07.jpg \"\"It's a hard life, by all accounts,\" murmured the Rat\") \"It's a hard life, by all accounts,\" murmured the Rat"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus07.jpg"
   },
   {
     "tag": "p",
@@ -2760,12 +2760,12 @@
     "innerHtml": "X"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "The Further Adventures Of Toad"
   },
   {
-    "tag": "h4",
-    "innerHtml": "The Further Adventures Of Toad"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -3164,8 +3164,12 @@
     "innerHtml": "XI"
   },
   {
-    "tag": "p",
-    "innerHtml": "\"LIKE SUMMER TEMPESTS CAME HIS TEARS\""
+    "tag": "h3",
+    "innerHtml": "\"Like Summer Tempests Came His Tears\""
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -3192,8 +3196,8 @@
     "innerHtml": "When at last Toad had talked himself to a standstill, there was silence for a while; and then the Rat said, \"Now, Toady, I don't want to give you pain, after all you've been through already; but, seriously, don't you see what an awful ass you've been making of yourself? On your own admission you have been hand-cuffed, imprisoned, starved, chased, terrified out of your life, insulted, jeered at, and ignominiously flung into the water—by a woman, too! Where's the amusement in that? Where does the fun come in? And all because you must needs go and steal a motor-car. You know that you've never had anything but trouble from motor-cars from the moment you first set eyes on one. But if you <em>will</em> be mixed up with them—as you generally are, five minutes after you've started—why <em>steal</em> them? Be a cripple, if you think it's exciting; be a bankrupt, for a change, if you've set your mind on it: but why choose to be a convict? When are you   going to be sensible and think of your friends, and try and be a credit to them? Do you suppose it's any pleasure to me, for instance, to hear animals saying, as I go about, that I'm the chap that keeps company with gaol-birds?\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus08.jpg\" alt=\"Dwelling chiefly on his own cleverness, and presence of mind in emergencies\" title=\"Dwelling chiefly on his own cleverness, and presence of mind in emergencies\"> Dwelling chiefly on his own cleverness, and presence of mind in emergencies"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus08.jpg"
   },
   {
     "tag": "p",
@@ -3608,12 +3612,12 @@
     "innerHtml": "XII"
   },
   {
-    "tag": "hr",
-    "innerHtml": ""
+    "tag": "h3",
+    "innerHtml": "The Return Of Ulysses"
   },
   {
-    "tag": "h4",
-    "innerHtml": "The Return Of Ulysses"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -3628,8 +3632,8 @@
     "innerHtml": "The Toad was so anxious not to be left out that he took up the inferior position assigned to him without a murmur, and the animals set off. The Badger led them along by the river for a little way, and then suddenly swung himself over the edge into a hole in the river bank, a little above the water. The Mole and the Rat followed silently, swinging themselves successfully into the hole as they had seen the Badger do; but when it came to Toad's turn, of course he managed to slip and fall into the water with a loud splash and a squeal of alarm. He was hauled out by his friends, rubbed down and wrung out hastily, comforted, and set on his legs; but the Badger was seriously angry,   and told him that the very next time he made a fool of himself he would most certainly be left behind."
   },
   {
-    "tag": "p",
-    "innerHtml": "![The Badger said, \"Now then, follow me!\"](images/illus09.jpg \"The Badger said, \"Now then, follow me!\"\") The Badger said, \"Now then, follow me!\""
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus09.jpg"
   },
   {
     "tag": "p",
@@ -3761,19 +3765,7 @@
   },
   {
     "tag": "blockquote",
-    "innerHtml": "<pre>Speech                   By Toad.\n  (There will be other speeches by Toad during\n               the evening.)</pre>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<pre>Address                  By Toad\nSynopsis—Our Prison System—the Waterways of Old\n   England—Horse-dealing, and how to deal—Property,\n   its rights and its duties—Back to the Land—A\n   Typical English Squire.</pre>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<pre>Song                    By Toad.\n             (_Composed by himself._)</pre>"
-  },
-  {
-    "tag": "blockquote",
-    "innerHtml": "<pre>Other Compositions        By Toad\n   will be sung in the course of the\n   evening by the      Composer.</pre>"
+    "innerHtml": "<pre>Speech                   By Toad.\n  (There will be other speeches by Toad during\n               the evening.)\nAddress                  By Toad\nSynopsis—Our Prison System—the Waterways of Old\n   England—Horse-dealing, and how to deal—Property,\n   its rights and its duties—Back to the Land—A\n   Typical English Squire.\nSong                    By Toad.\n             (_Composed by himself._)\nOther Compositions        By Toad\n   will be sung in the course of the\n   evening by the      Composer.\n</pre>"
   },
   {
     "tag": "p",
@@ -3849,19 +3841,19 @@
   },
   {
     "tag": "p",
-    "innerHtml": "The Toad—came—home!  \nThere was panic in the parlours and howling in the halls,<br>There was crying in the cow-sheds and shrieking in the stalls,<br>When the Toad—came—home!"
+    "innerHtml": "```\nThe Toad—came—home!<br>There was panic in the parlours and howling in the halls,<br>There was crying in the cow-sheds and shrieking in the stalls,<br>When the Toad—came—home!"
   },
   {
     "tag": "p",
-    "innerHtml": "When the Toad—came—home!  \nThere was smashing in of window and crashing in of door,<br>There was chivvying of weasels that fainted on the floor,<br>When the Toad—came—home!"
+    "innerHtml": "When the Toad—came—home!<br>There was smashing in of window and crashing in of door,<br>There was chivvying of weasels that fainted on the floor,<br>When the Toad—came—home!"
   },
   {
     "tag": "p",
-    "innerHtml": "Bang! go the drums!  \nThe trumpeters are tooting and the soldiers are saluting,<br>And the cannon they are shooting and the motor-cars are hooting,<br>As the—Hero—comes!"
+    "innerHtml": "Bang! go the drums!<br>The trumpeters are tooting and the soldiers are saluting,<br>And the cannon they are shooting and the motor-cars are hooting,<br>As the—Hero—comes!"
   },
   {
     "tag": "p",
-    "innerHtml": "Shout—Hoo-ray!  \nAnd let each one of the crowd try and shout it very loud,<br>In honour of an animal of whom you're justly proud,<br>For it's Toad's—great—day!"
+    "innerHtml": "Shout—Hoo-ray!<br>And let each one of the crowd try and shout it very loud,<br>In honour of an animal of whom you're justly proud,<br>For it's Toad's—great—day!"
   },
   {
     "tag": "p",
@@ -3869,7 +3861,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "Then he heaved a deep sigh; a long, long, long sigh."
+    "innerHtml": "Then he heaved a deep sigh; a long, long, long sigh.<br>```"
   },
   {
     "tag": "p",
@@ -3904,7 +3896,11 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/backlogo.jpg"
   },
   {
-    "tag": "p",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly1.jpg\" alt=\"Back Fly Cover\" title=\"Back Fly Leaf\"><img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly2.jpg\" alt=\"Back Fly Cover\" title=\"Back Fly Leaf\"> Back Fly Leaf"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly1.jpg"
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly2.jpg"
   }
 ]
