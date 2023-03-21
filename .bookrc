@@ -16,5 +16,7 @@
     "synopsis": ""
   },
   "status": "published",
-  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets"
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets",
+  "book_id": 887,
+  "book_url": "https://bubblin.io/book/the-wind-in-the-willows-by-kenneth-grahame"
 }
