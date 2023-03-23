@@ -4,7 +4,7 @@
   height: calc(100 * var(--vmax));
   border: calc(2 * var(--vmin)) solid #262626;
   background-color: #474747;
-  border-radius: calc( 0.3 * var(--vmin)) calc( 1.2 * var(--vmin)) calc( 1.2 * var(--vmin)) calc( 0.3 * var(--vmin));
+  border-radius: calc(0.3 * var(--vmin)) calc(1.2 * var(--vmin)) calc(1.2 * var(--vmin)) calc(0.3 * var(--vmin));
   box-shadow: calc(-0.5 * var(--vmin)) calc(0.5 * var(--vmin)) 0 #585656 inset;
   position: relative;
 }
@@ -29,7 +29,8 @@
   top: calc(43 * var(--vmax));
   position: relative;
 }
-.title h1 {
+.title h1,
+.title h2 {
   color: black;
 }
 .title:before {

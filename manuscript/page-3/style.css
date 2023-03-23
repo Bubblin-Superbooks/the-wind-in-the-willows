@@ -9,3 +9,9 @@
     background-position: 50% 50%;
     background-size: 60% 60%;
 }
+
+@media screen and (prefers-color-scheme: dark) {
+    .github {
+        filter: invert(100%);
+    }
+}

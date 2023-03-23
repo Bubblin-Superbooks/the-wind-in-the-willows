@@ -23,3 +23,15 @@
   display: inline-block !important;
   margin: 0 !important;
 }
+.koala {
+
+}
+
+@media screen and (prefers-color-scheme: dark) {
+  img.koala {
+      filter: invert(80%);
+      /* background-color: inherit;
+      background-blend-mode: screen;  
+      mix-blend-mode: difference;     */
+  }
+}
