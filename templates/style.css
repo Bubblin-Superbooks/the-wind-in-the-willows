@@ -158,6 +158,7 @@ h4 {
   line-height: 1.5; /* 1.5 times of a --vmax */
   font-weight: 100;
   font-size: calc(4 * var(--vmin));
+  font-family: "EB Garamond", serif;
 }
 
 h5 {

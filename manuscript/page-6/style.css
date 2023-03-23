@@ -1,4 +1,10 @@
 .publisher {
-    width: 85%;
-    height: 50%;
+  width: 85%;
+  height: 50%;
+}
+
+ul {
+  margin: calc(4 * var(--vmin)) 0 0 calc(4 * var(--vmin));
+  padding: 0;
+  list-style: none;
 }
