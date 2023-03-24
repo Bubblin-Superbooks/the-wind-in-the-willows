@@ -206,8 +206,8 @@ img {
   overflow: unset;
   top: unset;
   left: unset;
-  height: inherit;
-  width: inherit;
+  /* height: inherit;
+  width: inherit; */
   cursor: unset;
   z-index: unset;
   backdrop-filter: unset;
