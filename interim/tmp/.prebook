@@ -3076,8 +3076,8 @@
     "innerHtml": "Then he burst into song again, and chanted with uplifted voice—"
   },
   {
-    "tag": "p",
-    "innerHtml": "“The motor-car went Poop-poop-poop,<br>As it raced along the road.<br>Who was it steered it into a pond?<br>Ingenious Mr. Toad!"
+    "tag": "pre",
+    "innerHtml": "\"The motor-car went \nPoop-poop-poop, \nAs it raced along the road. \nWho was it steered it into a pond? \nIngenious Mr. Toad!"
   },
   {
     "tag": "p",
@@ -3729,7 +3729,7 @@
   },
   {
     "tag": "pre",
-    "innerHtml": "Speech By Toad.\n(There will be other speeches \nby Toad during the evening.)\nAddress By Toad\nSynopsis—Our Prison System—the Waterways \nof Old England—Horse-dealing, and how to \ndeal—Property, its rights and its duties\n—Back to the Land—A Typical English Squire.\nSong By Toad.\n(_Composed by himself._)\nOther Compositions by Toad\nwill be sung in the course of the\nevening by –the Composer."
+    "innerHtml": "Speech By Toad.\n(There will be other speeches \nby Toad during the evening.)\n\nAddress By Toad\nSynopsis—Our Prison System—the Waterways \nof Old England—Horse-dealing, and how to \ndeal—Property, its rights and its duties\n—Back to the Land—A Typical English Squire.\n\nSong By Toad.\n(_Composed by himself._)\nOther Compositions by Toad\nwill be sung in the course of the\nevening by –the Composer."
   },
   {
     "tag": "p",
@@ -3800,12 +3800,16 @@
     "innerHtml": ""
   },
   {
-    "tag": "h4",
-    "innerHtml": "Toad’s Last Little Song"
+    "tag": "pre",
+    "innerHtml": "TOAD'S LAST LITTLE SONG\n\nThe Toad—came—home! \nThere was panic in the parlours\nand howling in the halls, \nThere was crying in the cow-sheds\nand shrieking in the stalls, \nWhen the Toad—came—home! \n\nWhen the Toad—came—home! \nThere was smashing in of window\nand crashing in of door, \nThere was chivvying of weasels\nthat fainted on the floor, \nWhen the Toad—came—home! \n\nBang! go the drums! \nThe trumpeters are tooting\nand the soldiers are saluting, \nAnd the cannon they are shooting\nand the motor-cars are hooting, \nAs the—Hero—comes! \n\nShout—Hoo-ray! \nAnd let each one of the crowd\ntry and shout it very loud, \nIn honour of an animal \nof whom you're justly proud, \nFor it's Toad's—great—day!"
   },
   {
-    "tag": "pre",
-    "innerHtml": "The Toad—came—home! \nThere was panic in the parlours and howling in the halls, \nThere was crying in the cow-sheds and shrieking in the stalls, \nWhen the Toad—came—home! \n\nWhen the Toad—came—home! \nThere was smashing in of window and crashing in of door, \nThere was chivvying of weasels that fainted on the floor, \nWhen the Toad—came—home! \n\nBang! go the drums! \nThe trumpeters are tooting and the soldiers are saluting, \nAnd the cannon they are shooting and the motor-cars are hooting, \nAs the—Hero—comes! \n\nShout—Hoo-ray! \nAnd let each one of the crowd try and shout it very loud, \nIn honour of an animal of whom you're justly proud, \nFor it's Toad's—great—day! \n\nHe sang this very loud, with great unction and expression; and when he had done, he sang it all over again.\n\nThen he heaved a deep sigh; a long, long, long sigh."
+    "tag": "p",
+    "innerHtml": "He sang this very loud, with great unction and expression; and when he had done, he sang it all over again."
+  },
+  {
+    "tag": "p",
+    "innerHtml": "Then he heaved a deep sigh; a long, long, long sigh."
   },
   {
     "tag": "p",

@@ -22,6 +22,21 @@
   justify-content: center;
 }
 
+/* Value of the `.overlay` class is set by Bubblin Superbooks. */
+.overlay {
+  position: unset;
+  overflow: unset;
+  top: unset;
+  left: unset;
+  /* height: inherit; 
+  width: inherit; */ /* Never set the height or width on the `.overlay` class. */
+  cursor: unset;
+  z-index: unset;
+  backdrop-filter: unset;
+  display: unset;
+}
+
+
 /* FACT: div.parchment element is equal to the html, body { } elements of an iframed page. */
 html,
 body {
@@ -67,15 +82,32 @@ p span {
   word-wrap: break-word;
 }
 
-/* Safari 7.1+ */
+/* Safari support @7.1+ */
 _::-webkit-full-page-media, _:future, :root p {
   font-size: calc( 99/100 * 4 * var(--vmin));
   line-height: calc(99/100 * 4 * var(--vmax)); /* line-height: 1443:1115 of font-size. */
   font-weight: 100;
 }
 
+/* Safari support @7.1+ */
 _::-webkit-full-page-media, _:future, :root .small {
   font-size: 80%;
+}
+
+/* Firefox support Legacy and FF22+ */
+@-moz-document url-prefix() {
+  p {
+    font-size: calc( 99/100 * 4 * var(--vmin));
+    line-height: calc(99/100 * 4 * var(--vmax)); /* line-height: 1443:1115 of font-size. */
+    font-weight: 100;  
+  }
+  @supports (animation: calc(0s)) {
+    p {
+      font-size: calc( 99/100 * 4 * var(--vmin));
+      line-height: calc(99/100 * 4 * var(--vmax)); /* line-height: 1443:1115 of font-size. */
+      font-weight: 100;    
+    }
+  }
 }
 
 p.start-chapter {
@@ -100,7 +132,7 @@ p.no-indent {
 
 p.stretch-last-line {
   text-align-last: justify;
-  /* Not yet supported on Safari */
+  /* Supported on Safari but typescaling on Safari is still broken. Therefore, the hack below: */
 }
 _::-webkit-full-page-media, _:future, p.stretch-last-line {
   text-align-last: left;
@@ -201,19 +233,6 @@ img {
   font-style: italic;
 }
 
-.overlay {
-  position: unset;
-  overflow: unset;
-  top: unset;
-  left: unset;
-  /* height: inherit;
-  width: inherit; */
-  cursor: unset;
-  z-index: unset;
-  backdrop-filter: unset;
-  display: unset;
-}
-
 .left {
   float: left;
 }
@@ -257,7 +276,8 @@ pre {
   font-family: "EB Garamond", serif;
   font-style: italic;
   font-kerning: normal;
-  tab-width: 2;
+  font-size: 110%;
+  text-wrap: balance;
 }
 
 ol {
