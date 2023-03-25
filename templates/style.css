@@ -66,7 +66,6 @@ body {
 .inner {
   width: 85%;
   height: 88%;
-  background-color: aquamarine;
 }
 
 /* word-wrap: break-word; */ /* Don't break at words because browser overkills. Use a span for long strings instead. */
