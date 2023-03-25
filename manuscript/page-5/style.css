@@ -23,12 +23,9 @@
   display: inline-block !important;
   margin: 0 !important;
 }
-.koala {
-
-}
 
 @media screen and (prefers-color-scheme: dark) {
   img.koala {
-      filter: invert(80%);
+    filter: invert(80%);
   }
 }
