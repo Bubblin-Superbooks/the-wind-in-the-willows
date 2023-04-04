@@ -1,19 +1,19 @@
 [
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/cover.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/cover.jpg\", \"Book Cover\", \"Book Cover\"]"
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly.jpg\", \"Fly Leaf\", \"Front Fly Leaf\"]"
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/frontis.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/frontis.jpg\", \"The Piper at the Gates of Dawn\", \"The Piper at the Gates of Dawn\"]"
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/title.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/title.jpg\", \"\", \"\"]"
   },
   {
     "tag": "h4",
@@ -101,7 +101,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus01.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus01.jpg\", \"It was the Water Rat\", \"It was the Water Rat\"]"
   },
   {
     "tag": "p",
@@ -125,7 +125,7 @@
   },
   {
     "tag": "p",
-    "innerHtml": "“—about in boats—or <em>with</em> boats,” the Rat went on composedly, picking himself up with a pleasant laugh. “In or out of ‘em, it doesn’t matter. Nothing seems really to matter, that’s the charm of it. Whether you get away, or whether you don’t; whether you arrive at your destination or whether you reach somewhere else, or whether you never get anywhere at all, you’re always busy, and you never do anything in particular; and when you’ve done it there’s always something else to do, and you can do it if you like, but you’d much better not. ”Look here! If you’ve really nothing else on hand this morning, supposing we drop down the river together, and have a long day of it?”"
+    "innerHtml": "“—about in boats—or <em>with</em> boats,” the Rat went on composedly, picking himself up with a pleasant laugh. “In or out of ‘em, it doesn’t matter. Nothing seems really to matter, that’s the charm of it. Whether you get away, or whether you don’t; whether you arrive at your destination or whether you reach somewhere else, or whether you never get anywhere at all, you’re always busy, and you never do anything in particular; and when you’ve done it there’s always something else to do, and you can do it if you like, but you’d much better not. Look here! If you’ve really nothing else on hand this morning, supposing we drop down the river together, and have a long day of it?”"
   },
   {
     "tag": "p",
@@ -665,7 +665,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus02.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus02.jpg\", \"'Come on!' he said. 'We shall just have to walk it'\", \"'Come on!' he said. 'We shall just have to walk it'\"]"
   },
   {
     "tag": "p",
@@ -789,7 +789,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus03.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus03.jpg\", \"In panic, he began to run\", \"In panic, he began to run\"]"
   },
   {
     "tag": "p",
@@ -1177,7 +1177,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus04.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus04.jpg\", \"Through the Wild Wood and the snow\", \"Through the Wild Wood and the snow\"]"
   },
   {
     "tag": "p",
@@ -1917,7 +1917,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus05.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus05.jpg\", \"Toad was a helpless prisoner in the remotest dungeon\", \"Toad was a helpless prisoner in the remotest dungeon\"]"
   },
   {
     "tag": "p",
@@ -2201,7 +2201,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus06.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus06.jpg\", \"He lay prostrate in his misery on the floor\", \"He lay prostrate in his misery on the floor\"]"
   },
   {
     "tag": "p",
@@ -2637,7 +2637,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus07.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus07.jpg\", \"It's a hard life, by all accounts, murmured the Rat\", \"It's a hard life, by all accounts, murmured the Rat\"]"
   },
   {
     "tag": "p",
@@ -3161,7 +3161,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus08.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus08.jpg\", \"Dwelling chiefly on his own cleverness, and presence of mind in emergencies\", \"Dwelling chiefly on his own cleverness, and presence of mind in emergencies\"]"
   },
   {
     "tag": "p",
@@ -3597,7 +3597,7 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus09.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/illus09.jpg\", \"The Badger said, Now then, follow me!\", \"The Badger said, Now then, follow me!\"]"
   },
   {
     "tag": "p",
@@ -3841,14 +3841,14 @@
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/backlogo.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/backlogo.jpg\", \"Back Page Logo\", \"Back Page Logo\"]"
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly1.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly1.jpg\", \"Back Fly Leaf\", \"Back Fly Cover\"]"
   },
   {
     "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly2.jpg"
+    "innerHtml": "[\"https://raw.githubusercontent.com/marvindanig/the-wind-in-the-willows/master/assets/images/fly2.jpg\", \"Back Fly Leaf2\", \"Back Fly Cover\"]"
   }
 ]
