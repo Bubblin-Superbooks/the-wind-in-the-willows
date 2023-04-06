@@ -95,6 +95,7 @@ _::-webkit-full-page-media, _:future, :root p {
 /* Supported on Safari but typescaling on Safari is still broken. Therefore, the hack below: */
 _::-webkit-full-page-media, _:future, p.stretch-last-line {
   font-size: calc(99/100 * 4 * var(--vmin));
+  text-align-last: auto;
 }
 
 /* Safari support @7.1+ */
@@ -137,15 +138,6 @@ p.start-chapter::first-letter {
   padding: calc(6/10 * var(--vmin)) calc(3/10 * var(--vmin));
   margin: 0 0 0 calc(6 * var(--vmin)) ;
   float: left;  
-  /* font-size: 250%; */
-  /* margin: 0 calc(-10 * var(--vmin)) 0 0; */
-  /* line-height: calc(2 * 4 * var(--vmax) * 1.5 * 0.95); */
-  /* initial-letter: 2.5; */
-  /* color: white;
-  background-color: black;
-  box-shadow: calc(3/10 * var(--vmin)) calc(3/10 * var(--vmin)) 0 red; */
-  /* border-radius: calc(2 * var(--vmin));
-  border: 1px dashed gray; */
 }
 
 /* Manual Typesetting Helper Classes */
