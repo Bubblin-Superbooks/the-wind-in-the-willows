@@ -258,7 +258,7 @@ img {
   font-size: 80%;
 }
 
-/* blockquote {
+blockquote {
   text-align: justify;
   font-style: italic;
   position: relative;
@@ -271,9 +271,15 @@ img {
 }
 
 blockquote p,
-blockquote em {
+blockquote em,
+blockquote cite {
   margin: 0 auto !important;
-} */
+  text-align: justify;
+}
+
+blockquote.no-indent p {
+  text-indent: 0;
+}
 
 pre {
   white-space: pre-wrap;
